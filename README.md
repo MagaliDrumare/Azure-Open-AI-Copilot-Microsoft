@@ -1,4 +1,4 @@
-# Fabric-Copilot-AI-Builder--Microsoft
+# Microsoft Generative AI
 
 # 🚀  Microsoft Copilot 
 - Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us

@@ -57,6 +57,8 @@ Azure OpenAI : This is a collaboration between Microsoft and OpenAI, providing a
 
 Getting started with Azure AI : 
 - https://youtu.be/B9IXOJtEKAA?feature=shared
+Azure OpenAI Service models :
+https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
 
 
 # AI Learning hub Microsoft 

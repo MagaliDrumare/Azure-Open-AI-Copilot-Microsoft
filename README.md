@@ -1,6 +1,6 @@
 # Fabric-Copilot-AI-Builder--Microsoft
 
-### Microsoft Copilot 
+# Microsoft Copilot 
 - Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
 - Free access to Microsoft Copilot on mobile : https://www.microsoft.com/fr-fr/copilot-app/?form=MY02E2&OCID=MY02E2
 - Free version vs paid version Microsoft Copilot : https://www.microsoft.com/fr-fr/store/b/copilotpro (22,00 € - utilisateur/mois) 
@@ -20,7 +20,7 @@
 
 ### Azure OpenAI Service
 
-### AI learning hub Microsoft 
+# AI learning hub Microsoft 
 - https://learn.microsoft.com/en-gb/ai/
 - Microsoft Copilot for Microsoft 365 : https://learn.microsoft.com/en-us/collections/0d6so53jrrgpq
 - 

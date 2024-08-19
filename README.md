@@ -1,6 +1,6 @@
 # Fabric-Copilot-AI-Builder--Microsoft
 
-# Microsoft Copilot 
+# 🚀  Microsoft Copilot 
 - Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
 - Free access to Microsoft Copilot on mobile : https://www.microsoft.com/fr-fr/copilot-app/?form=MY02E2&OCID=MY02E2
 - Free version vs paid version Microsoft Copilot : https://www.microsoft.com/fr-fr/store/b/copilotpro (22,00 € - utilisateur/mois) 
@@ -36,7 +36,7 @@ With Copilot Studio, you can design custom copilots and use generative AI and LL
 
 ### Microsoft Fabric 
 
-### Azure OpenAI Service
+# 🚀  Azure OpenAI Service
 
 # AI Learning hub Microsoft 
 - AI Learning Hub Microsoft : https://learn.microsoft.com/en-gb/ai/

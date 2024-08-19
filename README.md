@@ -42,12 +42,11 @@ Here are some key features of GitHub Copilot:
 ### Microsoft Fabric 
 Microsoft Fabric is a comprehensive data management and analytics platform designed to unify various data-related tasks and tools into a single, cohesive solution. 
 Here are some key aspects of Microsoft Fabric: 
-- **Unified Platform**: It combines components from Power BI, Azure Synapse Analytics, Azure Data Factory, and other services into a single platform².
-- **Data Integration**: Fabric allows for seamless integration, organization, and analysis of data from multiple sources, including multi-cloud environments¹.
-- **AI-Powered**: The platform leverages AI to enhance data processing, analysis, and insights generation¹.
-- **Real-Time Analytics**: It supports real-time data ingestion, transformation, and event routing, making it suitable for dynamic and fast-paced data environments².
-- **Centralized Data Storage**: With OneLake, Fabric centralizes data storage, allowing users to work with a single copy of data across different analytical tools and languages².
-- **Collaboration and Governance**: It provides tools for data governance, compliance, and collaboration, ensuring that data is managed securely and efficiently¹.
+- **Unified Platform**: It combines components from Power BI, Azure Synapse Analytics, Azure Data Factory, and other services into a single platform.
+- **Data Integration**: Fabric allows for seamless integration, organization, and analysis of data from multiple sources, including multi-cloud environments.
+- **AI-Powered**: The platform leverages AI to enhance data processing, analysis, and insights generation.
+- **Real-Time Analytics**: It supports real-time data ingestion, transformation, and event routing, making it suitable for dynamic and fast-paced data environments.
+- **Centralized Data Storage**: With OneLake, Fabric centralizes data storage, allowing users to work with a single copy of data across different analytical tools and languages.
 - https://www.microsoft.com/fr-fr/microsoft-fabric/getting-started.
 
 # 🚀  Azure OpenAI Service

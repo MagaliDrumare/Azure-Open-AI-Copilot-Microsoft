@@ -8,7 +8,7 @@
 ### Microsoft Copilot for Microsoft 365
 **Microsoft Copilot** is an AI-powered productivity tool designed to enhance creativity, productivity, and understanding of information. It integrates large language models (LLMs) with data from Microsoft Graph and Microsoft 365 Apps like Word, Excel, PowerPoint, Outlook, and Teams.
 - Maîtriser Microsoft Copilot (PowerPoint, Excel, Outlook etc...): https://youtu.be/LTFbWszwF28?feature=shared
-- Video démo Microsoft Copilot for 365 :  https://youtu.be/F8dTs1BV6Ms?feature=shared
+- Microsoft Copilot for 365 démo : https://youtu.be/F8dTs1BV6Ms?feature=shared
 - Copilot in Excel: Hype or Future?: https://youtu.be/sj0wCdE5tjo?t=627
 
   

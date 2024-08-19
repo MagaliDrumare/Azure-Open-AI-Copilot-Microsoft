@@ -16,6 +16,7 @@ Microsoft Copilot for Dynamics 365 is an AI-powered assistant designed to enhanc
 Here are some key features:
 - **Sales and Customer Service**: Provides quick summaries of sales opportunities, leads, and account updates. It can draft contextual responses for customer queries in both chat and email.
   - How Sales Copilot works ? : https://www.microsoft.com/en-gb/videoplayer/embed/RW1f1Ja?postJsllMsg=true&autoCaptions=en-gb
+  - Microsoft Copilot for Service Overview : https://youtu.be/28Vn4qe70OA?feature=shared
 - **Supply Chain Management**: Helps streamline operations by offering insights and automating routine tasks.
 - **Finance**: Assists with tasks like reconciling bank statements and generating financial reports.
 - **Marketing**: Generates compelling product descriptions and marketing content, tailored to your brand's voice.

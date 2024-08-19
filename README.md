@@ -13,9 +13,7 @@
 
 ### Microsoft Copilot Studio 
 Microsoft Copilot Studio is a low-code tool designed to help you create and customize AI-powered conversational interfaces, known as copilots. These copilots leverage large language models (LLMs) and additional knowledge sources to provide intelligent, actionable, and connected assistance.
-With Copilot Studio, you can:
-- **Design custom copilots**: Use generative AI and LLMs to build conversational applications tailored to your needs.
-- **Customize for Microsoft 365**: Create extensions that integrate with your business processes.
+With Copilot Studio, you can: **Design custom copilots**: Use generative AI and LLMs to build conversational applications tailored to your needs. Customize for Microsoft 365**: Create extensions that integrate with your business processes.
 - Microsoft Copilot Studio - Tutorial for Beginners : https://youtu.be/SCYsIChlyTk?feature=shared
 
 

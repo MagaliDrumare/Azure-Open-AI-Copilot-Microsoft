@@ -52,8 +52,8 @@ Here are some key aspects of Microsoft Fabric:
 
 # 🚀  Azure OpenAI Service
 ### OpenAI versus Azure OpenAI 
-    **OpenAI**: OpenAI primarily offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.
-    **Azure OpenAI**: This is a collaboration between Microsoft and OpenAI, providing access to OpenAI’s powerful models through the Azure cloud platform. Azure OpenAI services are designed for enterprises that require robust cloud hosting, additional security features, compliance certifications, and integration with other Microsoft products. This service allows businesses to scale their applications with the reliability and extensive support of Microsoft’s cloud infrastructure.
+OpenAI offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.
+Azure OpenAI : This is a collaboration between Microsoft and OpenAI, providing access to OpenAI’s powerful models through the Azure cloud platform. Azure OpenAI services are designed for enterprises that require robust cloud hosting, additional security features, compliance certifications, and integration with other Microsoft products. This service allows businesses to scale their applications with the reliability and extensive support of Microsoft’s cloud infrastructure.
 
 #### Key Differences:
 - **Integration and Scalability**: Azure OpenAI offers deeper integration with Microsoft's ecosystem, which can be beneficial for enterprises already embedded in Azure’s services. It allows for easier scaling and management of applications that require heavy computation resources.

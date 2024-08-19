@@ -30,5 +30,6 @@ With Copilot Studio, you can:
 # AI learning hub Microsoft 
 - https://learn.microsoft.com/en-gb/ai/
 - Microsoft Copilot for Microsoft 365 : https://learn.microsoft.com/en-us/collections/0d6so53jrrgpq
-- Microsoft Copilot Studio : 
+- Microsoft Copilot Studio : https://learn.microsoft.com/en-us/collections/opqcmkrmxyyrm
+  
 

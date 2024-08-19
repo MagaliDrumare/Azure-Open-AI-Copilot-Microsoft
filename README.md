@@ -20,8 +20,7 @@ Here are some key features:
 - **Finance**: Assists with tasks like reconciling bank statements and generating financial reports.
 - **Marketing**: Generates compelling product descriptions and marketing content, tailored to your brand's voice.
 Additionally, Copilot can be integrated with Outlook and Teams for better data management and communication.
-
-
+- Dynamics 365 Copilot Explained: Top 10 Things You Need to Know : https://youtu.be/CcD9z60Uoyg?feature=shared
 
 
 ### Microsoft Copilot Studio 

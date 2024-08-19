@@ -38,8 +38,8 @@ With Copilot Studio, you can design custom copilots and use generative AI and LL
 
 ### Azure OpenAI Service
 
-# AI learning hub Microsoft 
-- https://learn.microsoft.com/en-gb/ai/
+# AI Learning hub Microsoft 
+- AI Learning Hub Microsoft : https://learn.microsoft.com/en-gb/ai/
 - Microsoft Copilot for Microsoft 365 : https://learn.microsoft.com/en-us/collections/0d6so53jrrgpq
 - Microsoft Copilot Studio : https://learn.microsoft.com/en-us/collections/opqcmkrmxyyrm
 - Microsoft Copilot for Dynamics 365 : https://learn.microsoft.com/en-us/collections/5m3sypgnp57z0

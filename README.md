@@ -1,8 +1,8 @@
 # Fabric-Copilot-AI-Builder--Microsoft
 
-### Microsoft Copilot (free access) 
-- Access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
-- Access to Microsoft Copilot on mobile : https://www.microsoft.com/fr-fr/copilot-app/?form=MY02E2&OCID=MY02E2
+### Microsoft Copilot 
+- Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
+- Free access to Microsoft Copilot on mobile : https://www.microsoft.com/fr-fr/copilot-app/?form=MY02E2&OCID=MY02E2
 - Free version vs paid version Microsoft Copilot : https://www.microsoft.com/fr-fr/store/b/copilotpro (22,00 € utilisateur/mois) 
 
 ### Microsoft Copilot for Microsoft 365

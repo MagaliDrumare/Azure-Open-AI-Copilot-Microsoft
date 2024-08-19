@@ -27,7 +27,7 @@ Additionally, Copilot can be integrated with Outlook and Teams for better data m
 ### Microsoft Copilot Studio 
 Microsoft Copilot Studio is a low-code tool designed to help you create and customize AI-powered conversational interfaces, known as copilots. These copilots leverage large language models (LLMs) and additional knowledge sources to provide intelligent, actionable, and connected assistance.
 With Copilot Studio, you can design custom copilots and use generative AI and LLMs to build conversational applications tailored to your needs. 
-- Microsoft Copilot Studio - Tutorial for Beginners : https://youtu.be/SCYsIChlyTk?feature=shared
+- Microsoft Copilot Studio - Tutorial : https://youtu.be/SCYsIChlyTk?feature=shared
 
 
 ### GitHub Copilot 
@@ -37,8 +37,8 @@ Here are some key features of GitHub Copilot:
 - **Learning and Adaptation**: It learns from the code you write and adapts its suggestions to better fit your coding style.
 - **Multi-language Support**: It supports various programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.
 - **Documentation and Translation**: It can generate documentation for your code and translate code between different programming languages.
+- GitHub Copilot & VS Code : https://learn.microsoft.com/fr-fr/shows/visual-studio-code/get-to-know-github-copilot-in-vs-code-and-be-productive-immediately
 - Github Copilot playlist : https://learn.microsoft.com/en-us/shows/introduction-to-github-copilot/
-- itHub Copilot dans VS Code : https://learn.microsoft.com/fr-fr/shows/visual-studio-code/get-to-know-github-copilot-in-vs-code-and-be-productive-immediately
 
 ### Microsoft Fabric 
 Microsoft Fabric is a comprehensive data management and analytics platform designed to unify various data-related tasks and tools into a single, cohesive solution. 
@@ -48,7 +48,7 @@ Here are some key aspects of Microsoft Fabric:
 - **AI-Powered**: The platform leverages AI to enhance data processing, analysis, and insights generation.
 - **Real-Time Analytics**: It supports real-time data ingestion, transformation, and event routing, making it suitable for dynamic and fast-paced data environments.
 - **Centralized Data Storage**: With OneLake, Fabric centralizes data storage, allowing users to work with a single copy of data across different analytical tools and languages.
-- https://www.microsoft.com/fr-fr/microsoft-fabric/getting-started.
+- Fundamentals of Microsoft Fabric in 38 minutes : https://youtu.be/J4i5lcROJcs?feature=shared
 
 # 🚀  Azure OpenAI Service
 

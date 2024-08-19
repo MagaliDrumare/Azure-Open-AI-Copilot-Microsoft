@@ -32,7 +32,7 @@ With Copilot Studio, you can design custom copilots and use generative AI and LL
 
 ### GitHub Copilot 
 GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It helps developers write code faster and with less effort by providing code suggestions directly within their integrated development environment (IDE) like Visual Studio Code, Visual Studio, Neovim, and JetBrains.
-Here are some key features of GitHub Copilot:
+Here are some key features of GitHub Copilot :
 - **Code Suggestions**: It offers real-time code suggestions as you type, helping you complete lines or blocks of code.
 - **Learning and Adaptation**: It learns from the code you write and adapts its suggestions to better fit your coding style.
 - **Multi-language Support**: It supports various programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.
@@ -52,12 +52,12 @@ Here are some key aspects of Microsoft Fabric:
 
 # 🚀  Azure OpenAI Service
 ### OpenAI versus Azure OpenAI 
-OpenAI offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.
-Azure OpenAI : This is a collaboration between Microsoft and OpenAI, providing access to OpenAI’s powerful models through the Azure cloud platform. Azure OpenAI services are designed for enterprises that require robust cloud hosting, additional security features, compliance certifications, and integration with other Microsoft products. This service allows businesses to scale their applications with the reliability and extensive support of Microsoft’s cloud infrastructure.
+- OpenAI offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.
+- Azure OpenAI : This is a collaboration between Microsoft and OpenAI, providing access to OpenAI’s powerful models through the Azure cloud platform. Azure OpenAI services are designed for enterprises that require robust cloud hosting, additional security features, compliance certifications, and integration with other Microsoft products. This service allows businesses to scale their applications with the reliability and extensive support of Microsoft’s cloud infrastructure.
 
-Getting started with Azure AI : 
-- https://youtu.be/B9IXOJtEKAA?feature=shared
-Azure OpenAI Service models :
+- Getting started with Azure AI : 
+https://youtu.be/B9IXOJtEKAA?feature=shared
+- Azure OpenAI Service models :
 https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
 
 

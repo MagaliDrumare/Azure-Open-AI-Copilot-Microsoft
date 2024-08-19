@@ -68,7 +68,8 @@ Choosing Between Them:
 - Individual Developers or Small Startups: Might prefer OpenAI’s direct API for its simplicity and lower barrier to entry.
 - Large Enterprises or Applications Needing Robust Infrastructure: Likely to benefit from Azure OpenAI, especially if they require integration with other Azure services or need enhanced security and compliance features.
 
-- Getting started with Azure AI : https://youtu.be/B9IXOJtEKAA?feature=shared
+Getting started with Azure AI : 
+- https://youtu.be/B9IXOJtEKAA?feature=shared
 
 
 # AI Learning hub Microsoft 

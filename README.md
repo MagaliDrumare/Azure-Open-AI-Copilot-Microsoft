@@ -38,6 +38,7 @@ Here are some key features of GitHub Copilot:
 - **Multi-language Support**: It supports various programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.
 - **Documentation and Translation**: It can generate documentation for your code and translate code between different programming languages.
 - Github Copilot playlist : https://learn.microsoft.com/en-us/shows/introduction-to-github-copilot/
+- itHub Copilot dans VS Code : https://learn.microsoft.com/fr-fr/shows/visual-studio-code/get-to-know-github-copilot-in-vs-code-and-be-productive-immediately
 
 ### Microsoft Fabric 
 Microsoft Fabric is a comprehensive data management and analytics platform designed to unify various data-related tasks and tools into a single, cohesive solution. 

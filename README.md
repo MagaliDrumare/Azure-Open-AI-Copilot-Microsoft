@@ -31,7 +31,13 @@ With Copilot Studio, you can design custom copilots and use generative AI and LL
 
 
 ### GitHub Copilot 
-
+GitHub Copilot is an AI-powered coding assistant developed by GitHub in collaboration with OpenAI. It helps developers write code faster and with less effort by providing code suggestions directly within their integrated development environment (IDE) like Visual Studio Code, Visual Studio, Neovim, and JetBrains.
+Here are some key features of GitHub Copilot:
+- **Code Suggestions**: It offers real-time code suggestions as you type, helping you complete lines or blocks of code.
+- **Learning and Adaptation**: It learns from the code you write and adapts its suggestions to better fit your coding style.
+- **Multi-language Support**: It supports various programming languages, including Python, JavaScript, TypeScript, Ruby, and Go.
+- **Documentation and Translation**: It can generate documentation for your code and translate code between different programming languages.
+- Github Copilot playlist : https://learn.microsoft.com/en-us/shows/introduction-to-github-copilot/
 
 
 ### Microsoft Fabric 
@@ -43,5 +49,6 @@ With Copilot Studio, you can design custom copilots and use generative AI and LL
 - Microsoft Copilot for Microsoft 365 : https://learn.microsoft.com/en-us/collections/0d6so53jrrgpq
 - Microsoft Copilot Studio : https://learn.microsoft.com/en-us/collections/opqcmkrmxyyrm
 - Microsoft Copilot for Dynamics 365 : https://learn.microsoft.com/en-us/collections/5m3sypgnp57z0
+- GitHub Copilot : https://learn.microsoft.com/en-us/collections/nq2b20y286pnj
   
 

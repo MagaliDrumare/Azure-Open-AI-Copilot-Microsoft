@@ -20,7 +20,7 @@ Here are some key features:
 - **Marketing**: Generates compelling product descriptions and marketing content, tailored to your brand's voice.
 Additionally, Copilot can be integrated with Outlook and Teams for better data management and communication.
 - How Sales Copilot works ? : https://www.microsoft.com/en-gb/videoplayer/embed/RW1f1Ja?postJsllMsg=true&autoCaptions=en-gb
-- 
+
 
 
 ### Microsoft Copilot Studio 

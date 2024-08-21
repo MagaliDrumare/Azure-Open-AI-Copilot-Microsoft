@@ -6,12 +6,14 @@
 - Free version vs paid version Microsoft Copilot : https://www.microsoft.com/fr-fr/store/b/copilotpro (22,00 € - utilisateur/mois) 
 
 ### Microsoft Copilot for Microsoft 365
+- https://www.microsoft.com/fr-fr/microsoft-365/business/copilot-for-microsoft-365#tabs-oc2a1c_tab3
 **Microsoft Copilot** is an AI-powered productivity tool designed to enhance creativity, productivity, and understanding of information. It integrates large language models (LLMs) with data from Microsoft Graph and Microsoft 365 Apps like Word, Excel, PowerPoint, Outlook, and Teams.
 - Microsoft Copilot Tutorial for Beginners : https://youtu.be/d-CuF6dlqLg?feature=shared
 - Microsoft Copilot for 365 démo : https://youtube.com/playlist?list=PLXtHYVsvn_b_t2dNsM86jUHpzlL0RlCF8&feature=shared
 - How Microsoft Copilot for Microsoft 365 works with external data : https://youtu.be/9FOQYQBPCeo?feature=shared
 
 ### Microsoft Copilot for Dynamics 365 
+- https://www.microsoft.com/fr-fr/dynamics-365#modal-1
 Microsoft Copilot for Dynamics 365 is an AI-powered assistant designed to enhance productivity and efficiency across various business operations. It integrates seamlessly with Dynamics 365 applications to provide intelligent assistance in areas such as sales, customer service, supply chain management, finance, and marketing.
 Here are some key features:
 - **Sales and Customer Service**: Provides quick summaries of sales opportunities, leads, and account updates. It can draft contextual responses for customer queries in both chat and email.
@@ -59,7 +61,6 @@ Here are some key features of GitHub Copilot :
 https://youtu.be/B9IXOJtEKAA?feature=shared
 - Azure OpenAI Service models :
 https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
-
 
 # AI Learning hub Microsoft 
 - AI Learning Hub Microsoft : https://learn.microsoft.com/en-gb/ai/

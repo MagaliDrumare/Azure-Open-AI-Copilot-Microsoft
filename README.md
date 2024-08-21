@@ -1,5 +1,8 @@
 # Microsoft Generative AI
 
+### Microsoft Generative AI Quiz : 
+- access : https://lngadusrcgvt6tblvtzdxg.streamlit.app/
+
 # 🚀  Microsoft Copilot 
 - Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
 - Free access to Microsoft Copilot on mobile : https://www.microsoft.com/fr-fr/copilot-app/?form=MY02E2&OCID=MY02E2

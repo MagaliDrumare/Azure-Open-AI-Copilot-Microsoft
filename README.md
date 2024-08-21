@@ -69,5 +69,9 @@ https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
 - Microsoft Copilot for Dynamics 365 : https://learn.microsoft.com/en-us/collections/5m3sypgnp57z0
 - GitHub Copilot : https://learn.microsoft.com/en-us/collections/nq2b20y286pnj
 - Microsoft Fabric Resources : https://learn.microsoft.com/en-us/collections/p3gof80k7nn3e5
+
+# Microsoft and Apple drop OpenAI seats amid antitrust scrutiny
+- https://www.ft.com/content/ecfa69df-5d1c-4177-9b14-a3a73072db12
+
   
 

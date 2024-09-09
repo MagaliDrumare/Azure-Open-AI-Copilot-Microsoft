@@ -2,7 +2,7 @@
 
 
 ### Microsoft Generative Video (29 min) : 
--https://youtu.be/HbTGH_9tkVc
+- https://youtu.be/HbTGH_9tkVc
 
 ### Microsoft Azure Open AI Video (8 min 30) : 
 - https://youtu.be/n6z-XWcvkA4

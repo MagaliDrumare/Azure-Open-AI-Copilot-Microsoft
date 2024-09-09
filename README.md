@@ -2,10 +2,10 @@
 
 
 ### Microsoft Generative Video (29 min) : 
-[![Watch the video](https://i9.ytimg.com/vi_webp/HbTGH_9tkVc)](https://youtu.be/HbTGH_9tkVc)
+-https://youtu.be/HbTGH_9tkVc
 
 ### Microsoft Azure Open AI Video (8 min 30) : 
-[![Watch the video](https://i9.ytimg.com/vi_webp/n6z-XWcvkA4/mq2.webp?sqp=CMzF-rYG-oaymwEnCMACELQB8quKqQMb8AEB-AHSCIAC0AWKAg0IABABGIwBIFIoFTAP&rs=AOn4CLCqaDe8KNDwENIeixXn5pqeBhX25g)](https://youtu.be/n6z-XWcvkA4)
+- https://youtu.be/n6z-XWcvkA4
 
 
 ### Microsoft Generative AI Quiz : 

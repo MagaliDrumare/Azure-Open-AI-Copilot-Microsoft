@@ -12,7 +12,7 @@
 
 # 🚀  Azure OpenAI Service
 
-### Introducing o1: OpenAI’s new reasoning model series for developers and enterprises on Azure - September 2024 
+### Introducing Open AI o1: OpenAI’s new reasoning model series for developers and enterprises on Azure - September 2024 
 The o1-preview and o1-mini models are now accessible in Azure AI Studio and GitHub Models to a select group of Azure customers to collaboratively explore and identify the unique strengths of each model. The o1 series of advanced reasoning models excel at complex and nuanced problem spaces like these: 
 - Complex code generation: Capable of algorithm generation and advanced coding tasks to help developers. 
 - Advanced problem solving: Perfect for comprehensive brainstorming sessions and tackling multifaceted issues. 

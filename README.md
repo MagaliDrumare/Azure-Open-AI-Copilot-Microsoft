@@ -7,9 +7,28 @@
 ### Microsoft Azure Open AI Video (8 min 30) : 
 - https://youtu.be/n6z-XWcvkA4
 
-
 ### Microsoft Generative AI Quiz : 
 - access : https://lngadusrcgvt6tblvtzdxg.streamlit.app/
+
+# 🚀  Azure OpenAI Service
+
+### Introducing o1: OpenAI’s new reasoning model series for developers and enterprises on Azure - September 2024 
+The o1-preview and o1-mini models are now accessible in Azure AI Studio and GitHub Models to a select group of Azure customers to collaboratively explore and identify the unique strengths of each model. The o1 series of advanced reasoning models excel at complex and nuanced problem spaces like these: 
+- Complex code generation: Capable of algorithm generation and advanced coding tasks to help developers. 
+- Advanced problem solving: Perfect for comprehensive brainstorming sessions and tackling multifaceted issues. 
+- Complex document comparison: Ideal for analyzing contracts, case files, or legal documents to discern subtle differences. 
+- Instruction following and workflow management: Particularly adept at handling workflows that require shorter context.
+- https://azure.microsoft.com/en-us/blog/introducing-o1-openais-new-reasoning-model-series-for-developers-and-enterprises-on-azure/
+
+### OpenAI versus Azure OpenAI 
+- OpenAI offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.
+- Azure OpenAI : This is a collaboration between Microsoft and OpenAI, providing access to OpenAI’s powerful models through the Azure cloud platform. Azure OpenAI services are designed for enterprises that require robust cloud hosting, additional security features, compliance certifications, and integration with other Microsoft products. This service allows businesses to scale their applications with the reliability and extensive support of Microsoft’s cloud infrastructure.
+
+- Getting started with Azure AI : 
+https://youtu.be/B9IXOJtEKAA?feature=shared
+- Azure OpenAI Service models :
+https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
+
 
 # 🚀  Microsoft Copilot 
 - Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
@@ -62,16 +81,6 @@ Here are some key features of GitHub Copilot :
   - **Real-Time Analytics**: It supports real-time data ingestion, transformation, and event routing, making it suitable for dynamic and fast-paced data environments.
   - **Centralized Data Storage**: With OneLake, Fabric centralizes data storage, allowing users to work with a single copy of data across different analytical tools and languages.
 - Fundamentals of Microsoft Fabric in 38 minutes : https://youtu.be/J4i5lcROJcs?feature=shared
-
-# 🚀  Azure OpenAI Service
-### OpenAI versus Azure OpenAI 
-- OpenAI offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.
-- Azure OpenAI : This is a collaboration between Microsoft and OpenAI, providing access to OpenAI’s powerful models through the Azure cloud platform. Azure OpenAI services are designed for enterprises that require robust cloud hosting, additional security features, compliance certifications, and integration with other Microsoft products. This service allows businesses to scale their applications with the reliability and extensive support of Microsoft’s cloud infrastructure.
-
-- Getting started with Azure AI : 
-https://youtu.be/B9IXOJtEKAA?feature=shared
-- Azure OpenAI Service models :
-https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
 
 # AI Learning hub Microsoft 
 - AI Learning Hub Microsoft : https://learn.microsoft.com/en-gb/ai/

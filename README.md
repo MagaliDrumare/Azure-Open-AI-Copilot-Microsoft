@@ -19,7 +19,7 @@ The o1-preview and o1-mini models are now accessible in Azure AI Studio and GitH
 - Complex document comparison: Ideal for analyzing contracts, case files, or legal documents to discern subtle differences. 
 - Instruction following and workflow management: Particularly adept at handling workflows that require shorter context.
 - https://azure.microsoft.com/en-us/blog/introducing-o1-openais-new-reasoning-model-series-for-developers-and-enterprises-on-azure/
-- https://x.com/rowancheung/status/1834281046843785703
+- example : https://x.com/rowancheung/status/1834281046843785703
 
 ### OpenAI versus Azure OpenAI 
 - OpenAI offers AI models and services like ChatGPT, DALL-E, and Codex directly through OpenAI's own API. This approach is suitable for developers looking to integrate state-of-the-art language models directly into their applications without specific infrastructure commitments.

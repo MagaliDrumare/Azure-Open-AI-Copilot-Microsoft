@@ -35,7 +35,19 @@ https://learn.microsoft.com/en-ca/azure/ai-services/openai/concepts/models
 # 🚀  Microsoft Copilot 
 - Free access to Microsoft Copilot on computer : https://copilot.microsoft.com/?culture=en-us
 - Free access to Microsoft Copilot on mobile : https://www.microsoft.com/fr-fr/copilot-app/?form=MY02E2&OCID=MY02E2
-- Free version vs paid version Microsoft Copilot : https://www.microsoft.com/fr-fr/store/b/copilotpro (22,00 € - utilisateur/mois) 
+- Free version vs paid version Microsoft Copilot : https://www.microsoft.com/fr-fr/store/b/copilotpro
+
+### Microsoft 365 Copilot Wave 2: Pages, Python in Excel, and agents -16 September 2024
+The next wave of Microsoft 365 Copilot, bringing together web + work + Pages as a new design system for knowledge work.
+Copilot Pages—a dynamic, persistent canvas designed for multiplayer AI collaboration. It’s the first new digital artifact for the AI age. 
+Improving Copilot in the Microsoft 365 apps. Our customers tell us Copilot in Microsoft Teams has changed meetings forever—in fact, it’s the number one place they’re seeing value. We’re excited to do the same thing for advanced data analysis in Microsoft Excel, dynamic storytelling in PowerPoint, managing your inbox in Outlook.
+Copilot agents, making it easier and faster than ever to automate and execute business processes on your behalf—enabling you to scale your team like never before.
+- https://www.microsoft.com/en-us/microsoft-365/blog/2024/09/16/microsoft-365-copilot-wave-2-pages-python-in-excel-and-agents/
+
+
+### Microsoft has just announced Copilot's ability to process data in Excel by generating Python code - September 2024
+- https://youtu.be/zkyzrLwRwlo?feature=shared
+  
 
 ### Microsoft Copilot for Microsoft 365
 - https://www.microsoft.com/fr-fr/microsoft-365/business/copilot-for-microsoft-365#tabs-oc2a1c_tab3
